@@ -77,7 +77,7 @@ Business KPI Monitoring
 
 ## Page 7 – Sales Details
 
-![Uploading Screenshot 2026-07-18 153117.png…]()
+<img width="1157" height="647" alt="Screenshot 2026-07-18 153117" src="https://github.com/user-attachments/assets/8c42a8b5-9709-4917-9571-398687c12693" />
 
 **Source:** Kaggle Apple Sales Dataset
 
